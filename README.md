@@ -23,7 +23,7 @@ It also comes with the `modules` folder which contains a lot of code and snippet
 - [html5shiv](https://code.google.com/p/html5shiv/)
 - [placeholder.js](https://github.com/mathiasbynens/jquery-placeholder)
 
-###Other
+####Other
 
 - [humans.txt](http://humanstxt.org/)
 
