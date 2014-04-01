@@ -1,0 +1,29 @@
+
+
+ ____   _                _         
+/ ___| | |_  __ _  _ __ | |_  _ __ 
+\___ \ | __|/ _` || '__|| __|| '__|
+ ___) || |_| (_| || |   | |_ | |   
+|____/  \__|\__,_||_|    \__||_|   
+ https://github.com/ilogeek/startr
+
+ // Don't forget to change it here http://patorjk.com/software/taag/#p=display&h=1&v=0&f=Standard                                  
+
+/* MAIN */
+  Creator: Hugo Zilliox
+  Contact: hello [at] hzilliox.fr
+  Twitter: @HugoZilliox
+  Site: http://www.hzilliox.fr
+
+/* SITE */
+  Last update: 01/04/2014
+  Doctype: HTML5
+  Language: English
+  Site: https://github.com/ilogeek/startr
+
+/* THANKS */
+  
+// You should put here every person who helped you on this project 
+
+  And, of course, all humanstxt.org team!
+  Site: http://humanstxt.org/humans.txt

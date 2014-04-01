@@ -1,0 +1,13 @@
+/* This stylesheet is reserved JUST for hacky code 
+   Learn the philosophy here : http://csswizardry.com/2013/04/shame-css/
+*/
+
+
+/* Give Google Map popup their normal look 
+   http://code.google.com/p/gmaps-api-issues/issues/detail?id=4370 
+*/
+#map-canvas div {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+}
