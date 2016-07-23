@@ -16,7 +16,7 @@
   Site: http://www.hzilliox.fr
 
 /* SITE */
-  Last update: 01/04/2014
+  Last update: 2016/07/23
   Doctype: HTML5
   Language: English
   Site: https://github.com/ilogeek/startr

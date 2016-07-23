@@ -1,0 +1,15 @@
+/*
+ * Hide visually and from screen readers
+ */
+
+.hidden {
+    display: none !important;
+}
+
+/*
+ * Mediaqueries
+ */
+
+ @media (max-width: 600px) {
+
+}
